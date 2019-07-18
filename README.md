@@ -1,5 +1,5 @@
 # Notes-App
-Simple notes app built using node.js
+Simple notes app built using node.js this is a part of node .js course by andrew mead
 ## Technologies Used
 - Node Module System
 - NPM - Chalk, Yargs
